@@ -1,0 +1,23 @@
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+
+# Data files generated automatically by the app
+data/expenses.json
+data/budget.json
+data/backup/*.json
+data/exports/*.csv
+data/test_expenses.json
+data/test_exports/
+
+# VS Code settings
+.vscode/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Virtual environment 
+venv/
+env/
