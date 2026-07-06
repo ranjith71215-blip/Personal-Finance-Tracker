@@ -1,0 +1,6 @@
+# Personal Finance Tracker - Requirements
+
+# This project only uses Python's built-in standard library modules:
+# json, csv, os, shutil, sys, datetime, unittest
+#
+# No external packages need to be installed to run this project.

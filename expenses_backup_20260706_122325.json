@@ -1,0 +1,32 @@
+[
+    {
+        "date": "2026-04-05",
+        "amount": 1000.0,
+        "category": "Transport",
+        "description": "train"
+    },
+    {
+        "date": "2026-05-01",
+        "amount": 1500.0,
+        "category": "Rent",
+        "description": ""
+    },
+    {
+        "date": "2026-06-05",
+        "amount": 2000.0,
+        "category": "Food",
+        "description": "Lunch"
+    },
+    {
+        "date": "2026-06-05",
+        "amount": 530.0,
+        "category": "Food",
+        "description": "lunch"
+    },
+    {
+        "date": "2026-07-03",
+        "amount": 2000.0,
+        "category": "Transport",
+        "description": "car"
+    }
+]
